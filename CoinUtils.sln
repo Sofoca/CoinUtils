@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinUtils", "CoinUtils\CoinUtils.csproj", "{B570CD4E-3233-41C8-87C4-FA0E96DA4E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B570CD4E-3233-41C8-87C4-FA0E96DA4E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B570CD4E-3233-41C8-87C4-FA0E96DA4E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B570CD4E-3233-41C8-87C4-FA0E96DA4E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B570CD4E-3233-41C8-87C4-FA0E96DA4E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
